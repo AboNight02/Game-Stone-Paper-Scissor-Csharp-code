@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abo_Night\\OneDrive\\Desktop\\Game(Stone-Paper-Scissor)C# code\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96CCC91-40D2-4A4D-BA98-BDCDF083AA51}|Game\\Game.csproj|c:\\users\\abo_night\\onedrive\\desktop\\game(stone-paper-scissor)c# code\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96CCC91-40D2-4A4D-BA98-BDCDF083AA51}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abo_Night\\OneDrive\\Desktop\\Game(Stone-Paper-Scissor)C# code\\Game\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Abo_Night\\OneDrive\\Desktop\\Game(Stone-Paper-Scissor)C# code\\Game\\Game\\Program.cs",
+              "RelativeToolTip": "Game\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:17:18.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
