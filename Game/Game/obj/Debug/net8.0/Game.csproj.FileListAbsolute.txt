@@ -12,3 +12,18 @@ C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)C# code\Game\Game\o
 C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)C# code\Game\Game\obj\Debug\net8.0\Game.pdb
 C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)C# code\Game\Game\obj\Debug\net8.0\Game.genruntimeconfig.cache
 C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)C# code\Game\Game\obj\Debug\net8.0\ref\Game.dll
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\bin\Debug\net8.0\Game.exe
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\bin\Debug\net8.0\Game.deps.json
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\bin\Debug\net8.0\Game.runtimeconfig.json
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\bin\Debug\net8.0\Game.dll
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\bin\Debug\net8.0\Game.pdb
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.AssemblyInfoInputs.cache
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.AssemblyInfo.cs
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.sourcelink.json
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.dll
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\refint\Game.dll
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.pdb
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\Game.genruntimeconfig.cache
+C:\Users\Abo_Night\OneDrive\Desktop\Game(Stone-Paper-Scissor)\Game-Stone-Paper-Scissor-Csharp-code\Game\Game\obj\Debug\net8.0\ref\Game.dll
